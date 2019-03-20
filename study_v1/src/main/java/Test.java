@@ -13,7 +13,7 @@ public class Test {
             out.println("323");
             System.out.println("d43432s4f");
             System.out.println("dsdf");
-        System.out.println("dsdf");
+        System.out.println("123");
         System.out.println("32ds3");
 
 
