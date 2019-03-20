@@ -6,7 +6,7 @@
  */
 public class Test {
     public static void main(String[] args) {
-        sdfasdfadgddsSystem.out.println("ds23cc");
+        6666
         sdfasd
         System.
                 765766566
